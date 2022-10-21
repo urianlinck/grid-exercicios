@@ -1,4 +1,4 @@
-# A024 - Grid
+# Grid - Exercícios
 
 ### Setup do projeto no Git
 
